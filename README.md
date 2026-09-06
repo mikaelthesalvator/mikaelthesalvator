@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Mikaeluuu's Analyst
+- 🔭 I’m currently working on Mikael's Analyst
 - 🌱 I’m currently learning Data Analyst, Data Engineer
 - 😁😁😁😁👌
 - 💬 Ask me about Everything of my life because of you 💕
